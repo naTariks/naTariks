@@ -6,4 +6,4 @@
 - I'm based in Bern, Switzerland
 - I like everything that has something to do with computers, Star Wars, Orienteering and a bunch of other stuff
 
-<a href="nathanrichard.ch">my website</a>
+<a href="https://nathanrichard.ch">my website</a>
